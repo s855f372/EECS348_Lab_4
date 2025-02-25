@@ -1,0 +1,33 @@
+#flex {
+    display: flex;
+}
+
+body {
+    background-color: rgb(85, 90, 229);
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+h2 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+aside {
+    background-color: rgb(53, 235, 171);
+    height: 510px;
+    width: 180px;
+    padding: 15px;
+    order: 1;
+}
+
+main {
+    background-color: rgb(187, 173, 255);
+    height: 510px;
+    width: 100%;
+    padding: 15px;
+    order: 2;
+}
